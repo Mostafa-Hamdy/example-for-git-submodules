@@ -1,5 +1,6 @@
 <template>
    <div>
+      this is about pages from sub-repo
       this is sub-repo
    </div>
 </template>
